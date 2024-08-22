@@ -22,6 +22,9 @@ An AI driven guessing game where the AI acts as the guesser and user provides th
     - [Game Page Choose Game Topic](#game-page-choose-game-topic)
     - [Game Page Started](#game-page-started)
     - [Game Page Started 2](#game-page-started-2)
+    - [Game Page Finished](#game-page-finished)
+    - [User Profile Page](#user-profile-page)
+    - [Edit User Profile Page](#edit-user-profile-page)
   - [Akinaprematur-v2 API Documentation](#akinaprematur-v2-api-documentation)
     - [1. POST /login](#1-post-login)
     - [2. POST /register](#2-post-register)
@@ -116,7 +119,19 @@ Access the website at <http://localhost:5173>
 
 ### Game Page Started 2
 
-![Game Page Started 2](Game_Page_Started.png)
+![Game Page Started 2](Game_Page_Started_2.png)
+
+### Game Page Finished
+
+![Game Page Finished](Game_Page_Finished.png)
+
+### User Profile Page
+
+![User Profile Page](User_Profile_Page.png)
+
+### Edit User Profile Page
+
+![Edit User Profile Page](Edit_User_Profile_Page.png)
 
 ## Akinaprematur-v2 API Documentation
 
