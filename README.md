@@ -16,6 +16,8 @@ An AI driven guessing game where the AI acts as the guesser and user provides th
     - [Setup Instructions](#setup-instructions)
   - [Screenshots](#screenshots)
     - [Homepage](#homepage)
+    - [Register Page](#register-page)
+    - [Login Page](#login-page)
   - [Akinaprematur-v2 API Documentation](#akinaprematur-v2-api-documentation)
     - [1. POST /login](#1-post-login)
     - [2. POST /register](#2-post-register)
@@ -36,6 +38,7 @@ As in the middle of 2024, AI development is at its peak, how [ChatGPT from OpenA
 
 ## Features
 
+- Restful API
 - User authentication and authorization.
 - Guessing Game
 - CRUD in User Account functionality.
@@ -86,6 +89,14 @@ Access the website at <http://localhost:5173>
 ### Homepage
 
 ![Homepage](Homepage.png)
+
+### Register Page
+
+![Register Page](Register_Page.png)
+
+### Login Page
+
+![Login Page](Login_Page.png)
 
 ## Akinaprematur-v2 API Documentation
 
