@@ -35,7 +35,7 @@ An AI driven guessing game where the AI acts as the guesser and user provides th
 
 ## Introduction
 
-Have you ever heard of [Akinator](https://en.akinator.com/)? It's a game about A Genie who can guess any character, animals or any thing in your mind. I always fascinated by how the way it works since i was a child.
+Have you ever heard of [Akinator](https://en.akinator.com/)? It's a game about A Genie who can guess any character, animals or any thing in your mind. I always fascinated by how the way it works since i was a child. With the help of AI you can create your own Akinator now.
 
 As in the middle of 2024, AI development is at its peak, how [ChatGPT from OpenAI](https://chat.openai.com/) response our prompt in a matter of seconds, it's almost like ChatGPT has every knowledge in this world. So, when i try to find a good way to use the AI in one of my projects, then i remember [Akinator](https://en.akinator.com/), What if we put ChatGPT to act as the Akinator? After a little of tinkering, Akinaprematur was developed.
 
